@@ -1,0 +1,10 @@
+{
+  "entities": {
+    "Kontakte": {
+      "placeholders_set": 13,
+      "defaults_keys": ["kategorie"],
+      "computed_keys": [],
+      "reason": "Reine Stammdaten für Kontaktverwaltung — keine numerischen Felder, keine applookup-Ketten, keine berechenbaren Größen. Kategorie-Default auf Privat zur schnelleren Erfassung gesetzt."
+    }
+  }
+}

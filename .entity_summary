@@ -1,0 +1,1 @@
+- Kontakte (kontakte): nachname[string/text], geburtsdatum[date/date], kategorie[lookup/select], email[string/email], telefon[string/tel], mobil[string/tel], webseite[string/url], strasse[string/text], hausnummer[string/text], postleitzahl[string/text], ort[string/text], notizen[string/textarea], vorname[string/text]

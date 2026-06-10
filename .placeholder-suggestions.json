@@ -1,0 +1,17 @@
+{
+  "KontakteDialog.tsx": {
+    "vorname": "z. B. Max",
+    "nachname": "z. B. Müller",
+    "geburtsdatum": "Geburtstag eingeben",
+    "kategorie": "z. B. Privat, Geschäftlich",
+    "email": "z. B. max@example.com",
+    "telefon": "z. B. +49 30 12345",
+    "mobil": "z. B. +49 160 123456",
+    "webseite": "z. B. www.example.com",
+    "strasse": "z. B. Hauptstraße",
+    "hausnummer": "z. B. 42",
+    "postleitzahl": "z. B. 10115",
+    "ort": "z. B. Berlin",
+    "notizen": "Notizen, Anmerkungen, besondere Informationen..."
+  }
+}
